@@ -1,0 +1,11 @@
+{
+  "org": "litestar-org",
+  "repo": "litestar-htmx",
+  "versions": [
+    {
+      "commit": "e5c4e2fcdbb53b7bad1c469f1167a5684616d360",
+      "tag": "",
+      "parsed_at": "2026-10-10T19:55:22.785850+00:00"
+    }
+  ]
+}
